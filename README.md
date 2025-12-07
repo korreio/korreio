@@ -1,3 +1,3 @@
-Passionate IT leader with 17+ years of experience in technology and software development, specializing in product & project management. With an expansive journey across cycling, retail, tourism, and mobility sectors, 
+Passionate IT leader with 25+ years of experience in technology and software development, specializing in product & project management. With an expansive journey across cycling, retail, tourism, and mobility sectors, 
 I've honed my expertise in fostering innovation with an emphasis on sustainability and technology. Now, as a staunch advocate for sustainable mobility, I leverage my professional experience to drive change and shape a greener future. 
 My proficiencies include Python, C, C#, C++, Java, VBA, PHP, ASP, JavaScript, HTML, and SQL. Check out my repositories for a glimpse of the diverse projects I've worked on. I am always open to collaborate on projects aimed at sustainable mobility and technological innovation.
