@@ -16,8 +16,6 @@ meet, and lead the teams that ship them. Lisbon and Munich.
   community I built and ran from 1999 to 2003 on one server under my desk: 8,000+ members, tens of
   thousands of photographs, Classic ASP. The repository documents its story.
 
-Warmboot is designed and directed by me, and implemented and reviewed with coding agents.
-
 ### Background
 
 30+ years in software. CTO at YDX Innovation and AWAKE Mobility; helped scale a startup from 5
