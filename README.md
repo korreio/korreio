@@ -1,3 +1,29 @@
-Passionate IT leader with 25+ years of experience in technology and software development, specializing in product & project management. With an expansive journey across cycling, retail, tourism, and mobility sectors, 
-I've honed my expertise in fostering innovation with an emphasis on sustainability and technology. Now, as a staunch advocate for sustainable mobility, I leverage my professional experience to drive change and shape a greener future. 
-My proficiencies include Python, C, C#, C++, Java, VBA, PHP, ASP, JavaScript, HTML, and SQL. Check out my repositories for a glimpse of the diverse projects I've worked on. I am always open to collaborate on projects aimed at sustainable mobility and technological innovation.
+# Tiago Fonseca
+
+I build connected-mobility products, e-bike platforms where app, backend, firmware, BLE and CAN
+meet, and lead the teams that ship them. Lisbon and Munich.
+
+### Now
+
+- Leading the connected e-bike platform at HEPHA: app, backend and on-bike systems.
+- Wrote the spec for, built and shipped **[ErgoAdjust](https://ergoadjust.hepha.com/)**, HEPHA's
+  bike-fitting web app for riders and dealers (AI-assisted full stack), now replacing a manual
+  in-store process.
+
+### Projects
+
+- **[foto@pt](https://github.com/korreio/fotopt)**: the Portuguese-language photography
+  community I built and ran from 1999 to 2003 on one server under my desk: 8,000+ members, tens of
+  thousands of photographs, Classic ASP. The repository documents its story.
+
+Warmboot is designed and directed by me, and implemented and reviewed with coding agents.
+
+### Background
+
+30+ years in software. CTO at YDX Innovation and AWAKE Mobility; helped scale a startup from 5
+to 200 people. Founded and ran Ciclonatur, Portugal's leading Garmin retailer and bike shop, and
+the TransPortugal Race.
+
+**Works with:** Python · Dart/Flutter · Java/Spring · BLE · CAN bus · Git and CI
+
+[LinkedIn](https://www.linkedin.com/in/tfonseca/) · tiago@korreio.net
