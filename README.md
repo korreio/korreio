@@ -23,6 +23,6 @@ I started as a developer and still build.
 * Now: Dart/Flutter and Java/Spring for connected riding apps, BLE and CAN-bus tooling, Python for tooling, and AI-assisted full stack for web apps such as ErgoAdjust.
 
 ## Background
-30+ years in software. CTO at YDX Innovation and AWAKE Mobility; helped scale a startup from 5 to 200 people. Founded and ran Ciclonatur, Portugal's leading Garmin retailer and bike shop, and the TransPortugal Race.
+30+ years in software and mobility. CTO at YDX Innovation and AWAKE Mobility; helped scale a startup from 5 to 200 people. Founded and ran Ciclonatur, Portugal's leading Garmin retailer and bike shop, and the TransPortugal Race.
 
 [LinkedIn](https://www.linkedin.com/in/tfonseca/) · [tiago@korreio.net](mailto:tiago@korreio.net)
