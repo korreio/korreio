@@ -11,9 +11,10 @@ I build connected-mobility products, e-bike platforms where app, backend, firmwa
 
 * [Warmboot Light](https://github.com/korreio/warmboot): memory and rules for AI coding agents, kept as plain text in the repository, so a new session need not start from zero. Experimental.
 * [Warmboot Full](https://github.com/korreio/warmboot-full): the full toolkit and proving ground for that protocol: kickoff, maintenance, upgrade and release guidance, engineering decision cards and structural acceptance checks. Experimental.
+* [Agent Operations Kit](https://github.com/korreio/agent-ops-kit): how I run Claude Code and Codex together across repositories: task ownership, review by a second model family with every finding verified before a fix, and launchers that leave receipts you can check. Hardened before release with outsider test runs. Experimental, macOS.
 * [foto@pt](https://github.com/korreio/fotopt): the Portuguese-language photography community I built and ran from 1999 to 2003 on one server under my desk: 8,000+ members, tens of thousands of photographs, Classic ASP. The repository documents its story.
 
-Warmboot is designed and directed by me, and implemented and reviewed with coding agents.
+Warmboot and Agent Operations Kit are designed and directed by me, and implemented and reviewed with coding agents.
 
 ## Development
 I started as a developer and still build.
