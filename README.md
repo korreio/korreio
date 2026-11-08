@@ -7,7 +7,7 @@ I build connected-mobility products, e-bike platforms where app, backend, firmwa
 * Leading the connected e-bike platform at HEPHA: app, backend and on-bike systems.
 * Wrote the spec for, built and shipped [ErgoAdjust](https://ergoadjust.hepha.com/), HEPHA's bike-fitting web app for riders and dealers (AI-assisted full stack), now replacing a manual in-store process.
 
-## Personal Projects
+## Personal Projects, Open-Source Projects
 
 * [Warmboot Light](https://github.com/korreio/warmboot): memory and rules for AI coding agents, kept as plain text in the repository, so a new session need not start from zero. Experimental.
 * [Warmboot Full](https://github.com/korreio/warmboot-full): the full toolkit and proving ground for that protocol: kickoff, maintenance, upgrade and release guidance, engineering decision cards and structural acceptance checks. Experimental.
